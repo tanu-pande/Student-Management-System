@@ -34,7 +34,7 @@ A simple **Command-Line Interface (CLI)** based CRUD application built using **J
 ---
 
 ## 📸 Sample Output
-
+https://github.com/tanu-pande/Student-Management-System/blob/master/Screenshot%202025-06-25%20164215.png
 
 ---
 
